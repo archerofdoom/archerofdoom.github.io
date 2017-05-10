@@ -1,0 +1,36 @@
+body {
+margin: 0;
+}
+
+.info {
+    background-image:
+    url("http://ruscoe.org/assets/images/projects/software/digital-rain.gif");
+     background-position: center top;
+      background-size: cover;
+      height: 700px;
+      width: 100%;
+      
+}
+
+h1 {
+        margin:0;
+      color: rgba(239, 255, 240, 1);
+      text-align: center;
+      position: relative;
+      font-size: 100px;
+      }
+
+table{
+        font-family: Arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+}
+td, th {
+        border: 1px solid #dddd;
+        text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
